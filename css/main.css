@@ -260,6 +260,7 @@ textarea {
     page-break-after: avoid;
   }
   .kupa {
-    padding: 100pxgit;
+    padding: 100px;
+    margin: 10px;
   }
 }
